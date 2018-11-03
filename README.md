@@ -6,7 +6,7 @@ You can clone it by
   
 After you clone it, you must change it's owner by
   
-  $ chown <user> -R transpostion/
+  $ chown yourusername -R transpostion/
 
 And then you can run the python script
 
