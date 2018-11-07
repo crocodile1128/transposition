@@ -256,26 +256,3 @@ print ('\nreverse shift box = ' + str(ideal_rsbox))
 
 print ('\nPlaintext = \n' + plain)
 print ('\nCracked cipher (' + str(rate(plain, dec(cipher,ideal_rsbox))) + '%) = \n' + dec(cipher,ideal_rsbox))
-
-		
-	
-
-		
-
-
-
-
-
-
-	
-	
-
-	
-
-
-
-
-
-
-
-
